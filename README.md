@@ -1,4 +1,4 @@
-## Hi there 👋
+I'm an aspiring software developer passionate about creating impactful technology solutions, enhancing user experiences, and contributing to collaborative projects. With a solid foundation in programming languages like C#, Python, Java, JavaScript, HTML, CSS, PHP, and MsSQL, I enjoy tackling complex problems and turning ideas into functional applications. Currently pursuing an AEC in I.T Programmer Analysis at LaSalle College, I strive to build technology that empowers individuals and businesses. I'm also deeply interested in fostering a sense of community among developers, sharing knowledge, and staying at the forefront of the tech industry.
 
 <!--
 **NoMi819/NoMi819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
