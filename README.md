@@ -1,16 +1,21 @@
-I'm an aspiring software developer passionate about creating impactful technology solutions, enhancing user experiences, and contributing to collaborative projects. With a solid foundation in programming languages like C#, Python, Java, JavaScript, HTML, CSS, PHP, and MsSQL, I enjoy tackling complex problems and turning ideas into functional applications. Currently pursuing an AEC in I.T Programmer Analysis at LaSalle College, I strive to build technology that empowers individuals and businesses. I'm also deeply interested in fostering a sense of community among developers, sharing knowledge, and staying at the forefront of the tech industry.
+![Software Developper](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**NoMi819/NoMi819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Muhammad Noman
+I'm an aspiring software developer passionate about creating impactful technology solutions, enhancing user experiences, and contributing to collaborative projects. Currently pursuing an AEC in I.T Programmer Analysis at LaSalle College, I strive to build technology that empowers individuals and businesses. I'm also deeply interested in fostering a sense of community among developers, sharing knowledge, and staying at the forefront of the tech industry.
 
-Here are some ideas to get you started:
+## Skills and Experience
+* C#
+* Python
+* Java
+* OOP
+* JavaScript
+* HTML
+* CSS
+* PHP
+* MsSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
